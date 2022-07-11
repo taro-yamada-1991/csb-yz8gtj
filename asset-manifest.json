@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/css/main.c3bd3170.chunk.css",
+    "main.js": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/main.770401e1.chunk.js",
+    "main.js.map": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/main.770401e1.chunk.js.map",
+    "runtime-main.js": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/runtime-main.e0c60a88.js",
+    "runtime-main.js.map": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/runtime-main.e0c60a88.js.map",
+    "static/js/2.73c99789.chunk.js": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/2.73c99789.chunk.js",
+    "static/js/2.73c99789.chunk.js.map": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/2.73c99789.chunk.js.map",
+    "index.html": "https://taro-yamada-1991.github.io/csb-yz8gtj/index.html",
+    "static/css/main.c3bd3170.chunk.css.map": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/css/main.c3bd3170.chunk.css.map",
+    "static/js/2.73c99789.chunk.js.LICENSE.txt": "https://taro-yamada-1991.github.io/csb-yz8gtj/static/js/2.73c99789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c60a88.js",
+    "static/js/2.73c99789.chunk.js",
+    "static/css/main.c3bd3170.chunk.css",
+    "static/js/main.770401e1.chunk.js"
+  ]
+}
